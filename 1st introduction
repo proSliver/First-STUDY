@@ -1,0 +1,23 @@
+# First-STUDY
+新手上路，小白就是我。对于编程的了解很低，但对其很感兴趣。
+#introduction :
+# 30days we can control python
+
+print(2+3)
+print(2-3)
+print(2*3)
+print (3/2)
+print (3**2)
+print (3%2)
+print (3//2)
+
+#checking data type
+
+print(type(10)) #int
+print(type(3.14)) #float
+print(type(1+3j)) #complex
+print('Assample') #字符串
+print(type([1,2,3])) #
+print(type({'name':'Assmple'}))
+print(type({9.8,3.14,2.7}))
+print(type((9.8,3.14,2.7)))
